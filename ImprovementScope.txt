@@ -1,0 +1,1 @@
+Currently after a certain amount of iterations, the score almost becomes a constant. The snake coils itself in some of the cases. So there is a further improvement scope in that direction.
